@@ -1,24 +1,3 @@
 body {
-    display: flex;
-    justify-content: center;
-    align-items: center;
-    height: 100vh;
-    margin: 0;
-    background-color: #f9e3e3;
-    font-family: 'Arial', sans-serif;
-}
-
-.container {
-    text-align: center;
-}
-
-.header_text {
-    font-size: 3em;
-    color: #d32f2f;
-}
-
-.gif_container img {
-    width: 100%; 
-    max-width: 500px; 
-    height: auto; 
+  background-image: url("https://pokemonrevolution.net/forum/uploads/monthly_2021_03/DVMT-6OXcAE2rZY.jpg.afab972f972bd7fbd4253bc7aa1cf27f.jpg");
 }
