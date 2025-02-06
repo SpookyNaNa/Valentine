@@ -4,9 +4,11 @@ body {
     align-items: center;
     height: 100vh;
     margin: 0;
-    background-image: (/pokemon.jpg);
     font-family: 'Arial', sans-serif;
     flex-direction: column;
+  
+
+   background-image: url("pokemon.jpg");
   }
   
   .container {
