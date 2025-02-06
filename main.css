@@ -8,8 +8,8 @@ body {
 
   .container {
     display: block;
-    margin-left: 50%;
-    margin-right: 50%;
+    width: 100%;
+    
   }
   
   h1 {
