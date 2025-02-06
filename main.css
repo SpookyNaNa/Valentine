@@ -9,7 +9,7 @@ body {
   .container {
     display: block;
     width: 100%;
-    margin-left: auto;
+    margin-left: 50px;
     margin-right: auto
   }
   
