@@ -7,24 +7,24 @@ body {
     font-family: 'Arial', sans-serif;
     flex-direction: column;
   
-
-   background-image: url("pokemon.jpg");
-  }
+    background: url("pokemon.jpg") no-repeat center center;
+    background-size: cover;
+}
   
-  .container {
+.container {
     text-align: center;
-  }
+}
   
-  h1 {
+h1 {
     font-size: 2.5em;
     color: #d32f2f;
-  }
+}
   
-  .buttons {
+.buttons {
     margin-top: 20px;
-  }
+}
   
-  .yes-button {
+.yes-button {
     font-size: 1.5em;
     padding: 10px 20px;
     margin-right: 10px;
@@ -33,9 +33,9 @@ body {
     border: none;
     border-radius: 5px;
     cursor: pointer;
-  }
+}
   
-  .no-button {
+.no-button {
     font-size: 1.5em;
     padding: 10px 20px;
     background-color: #f44336;
@@ -43,11 +43,11 @@ body {
     border: none;
     border-radius: 5px;
     cursor: pointer;
-  }
+}
   
-  .gif_container img {
+.gif_container img {
     max-width: 100%;
     height: auto;
     border-radius: 10px;
     margin-top: 20px;
-  }
+}
